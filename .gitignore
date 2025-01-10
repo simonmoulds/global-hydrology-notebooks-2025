@@ -1,6 +1,6 @@
 # User supplied 
 data/*
-*.py
+!data/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
